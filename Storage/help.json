@@ -1,0 +1,44 @@
+{
+    "Help": {
+        "name": "Help",
+        "group": "Everyone",
+        "desc": "Displays a list of commands.",
+        "usage": "help [command / group]"
+    },
+    "Ping": {
+        "name": "Ping",
+        "group": "Everyone",
+        "desc": "Ping the bot.",
+        "usage": "ping"
+    },
+    "Purge": {
+        "name": "Purge",
+        "group": "Staff",
+        "desc": "Purges as in deletes an amount of messages.",
+        "usage": "purge <amount>"
+    },
+    "Ban": {
+        "name": "Ban",
+        "group": "Staff",
+        "desc": "Bans a user.",
+        "usage": "ban <user> <reason>"
+    },
+    "Kick": {
+        "name": "Kick",
+        "group": "Staff",
+        "desc": "Kicks a user.",
+        "usage": "kick <user> <reason>"
+    },
+    "setprefix": {
+        "name": "Kick",
+        "group": "Staff",
+        "desc": "Kicks a user.",
+        "usage": "kick <user> <reason>"
+    },
+    "Weather": {
+        "name": "Weather",
+        "group": "Everyone",
+        "desc": "Shows weather of a specific city.",
+        "usage": "weather <city>"
+    }
+}
